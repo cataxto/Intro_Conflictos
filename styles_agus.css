@@ -1,0 +1,21 @@
+div {
+    background-color: grey;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+h1 {
+    color: pink;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    color: greenyellow;
+    font-style: italic;
+    text-align: center;  
+    font-size: 30px;  
+}
